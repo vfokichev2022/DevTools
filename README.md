@@ -2,6 +2,10 @@
 
 ### Devtools HW
 
+Видео с выполнением задания
+https://drive.google.com/file/d/1Tfr55W6llK1jyI6REFdDZ-aWAS493ePY/view?usp=sharing
+
+Задание
 Сделать видео выполнения задания.
 
 http://itcareer.pythonanywhere.com/
